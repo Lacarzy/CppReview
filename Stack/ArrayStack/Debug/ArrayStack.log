@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\geniu\source\repos\arraystack\arraystack\arraystack.h(67): warning C4715: “ArrayStack<int>::pop”: 不是所有的控件路径都返回值
+c:\users\geniu\source\repos\arraystack\arraystack\arraystack.h(76): warning C4715: “ArrayStack<int>::top”: 不是所有的控件路径都返回值
+  ArrayStack.vcxproj -> C:\Users\Geniu\source\repos\ArrayStack\Debug\ArrayStack.exe
