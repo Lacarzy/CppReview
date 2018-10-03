@@ -1,0 +1,11 @@
+﻿  源.cpp
+c:\users\geniu\source\repos\bubbelsort\bubbelsort\源.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\bubbelsort\bubbelsort\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\bubbelsort\bubbelsort\bubbelsort.h(14): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\geniu\source\repos\bubbelsort\bubbelsort\源.cpp(13): note: 参见对正在编译的函数 模板 实例化“void BubbelSort<int>(std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+c:\users\geniu\source\repos\bubbelsort\bubbelsort\bubbelsort.h(16): warning C4018: “<”: 有符号/无符号不匹配
+  BubbelSort.vcxproj -> C:\Users\Geniu\source\repos\BubbelSort\Debug\BubbelSort.exe
