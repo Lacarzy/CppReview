@@ -1,0 +1,12 @@
+﻿  源.cpp
+c:\users\geniu\source\repos\selectsort\selectsort\源.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\selectsort\selectsort\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\selectsort\selectsort\selectsort.h(12): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\geniu\source\repos\selectsort\selectsort\源.cpp(14): note: 参见对正在编译的函数 模板 实例化“void SelectSort<int>(std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+c:\users\geniu\source\repos\selectsort\selectsort\selectsort.h(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\selectsort\selectsort\selectsort.h(28): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  SelectSort.vcxproj -> C:\Users\Geniu\source\repos\SelectSort\Debug\SelectSort.exe
