@@ -1,0 +1,17 @@
+﻿  源.cpp
+c:\users\geniu\source\repos\mergesort\mergesort\源.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\mergesort\mergesort\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\mergesort\mergesort\mergesort.h(24): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\geniu\source\repos\mergesort\mergesort\mergesort.h(40): note: 参见对正在编译的函数 模板 实例化“std::vector<int,std::allocator<_Ty>> MergeHelper<int>(std::vector<_Ty,std::allocator<_Ty>> &,int,int)”的引用
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\geniu\source\repos\mergesort\mergesort\源.cpp(13): note: 参见对正在编译的函数 模板 实例化“void MergeSort<int>(std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+c:\users\geniu\source\repos\mergesort\mergesort\mergesort.h(31): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\mergesort\mergesort\mergesort.h(33): warning C4018: “<”: 有符号/无符号不匹配
+  MergeSort.vcxproj -> C:\Users\Geniu\source\repos\MergeSort\Debug\MergeSort.exe
