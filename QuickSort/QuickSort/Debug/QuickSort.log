@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\geniu\source\repos\quicksort\quicksort\源.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\geniu\source\repos\quicksort\quicksort\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  QuickSort.vcxproj -> C:\Users\Geniu\source\repos\QuickSort\Debug\QuickSort.exe
